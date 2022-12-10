@@ -15,6 +15,27 @@ It's a timer made with React that you can use like a Pomodoro, it's a project ma
 - Date-fns
 - Styled-components
 
+### How to install?
+
+To use the project locally:
+
+***1 - Clone the project***
+
+```git
+git clone https://github.com/pedrOAlquimim/event-platform.git
+```
+
+***2 - Install the dependencies***
+
+```npm
+npm install
+```
+
+***3 - Run the project locally***
+
+```npm
+npm run dev
+```
 
 ## Português
 
@@ -30,3 +51,25 @@ It's a timer made with React that you can use like a Pomodoro, it's a project ma
 - Zod
 - Date-fns
 - Styled-components
+
+### Como instalar?
+
+To use the project locally:
+
+***1 - Clone the project***
+
+```git
+git clone https://github.com/pedrOAlquimim/event-platform.git
+```
+
+***2 - Install the dependencies***
+
+```npm
+npm install
+```
+
+***3 - Run the project locally***
+
+```npm
+npm run dev
+```
