@@ -4,7 +4,7 @@
 
 ### What is the project?
 
-It's a timer made with React that you can use like a Pomodoro, it's a project made to learn React concepts such Context API, Styled Components, React Router DOM, date manipulation with Date FNS and form validation with React Hook Form and Zod.
+2º Project of Bootcamp Ignite @Rocketseat. It's a timer made with React that you can use like a Pomodoro, it's a project made to learn React concepts such Context API, Styled Components, React Router DOM, date manipulation with Date FNS and form validation with React Hook Form and Zod.
 
 ### Main used technologies:
 
@@ -41,7 +41,7 @@ npm run dev
 
 ### O que é o projeto?
 
-2º Projeto do Bootcamp Ignite Rocketseat. É um timer feito em React que vcê pode usar como um Pomodoro, é um projeto que foi feito para aprender conceitos do React como Context API, Styled Components, React Router DOM, manipulação de datas com o Date FNS e validação de formulário com React Hook Form e o Zod.
+2º Projeto do Bootcamp Ignite @Rocketseat. É um timer feito em React que vcê pode usar como um Pomodoro, é um projeto que foi feito para aprender conceitos do React como Context API, Styled Components, React Router DOM, manipulação de datas com o Date FNS e validação de formulário com React Hook Form e o Zod.
 
 ### Principais tecnologias usadas:
 
